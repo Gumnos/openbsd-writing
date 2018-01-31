@@ -29,6 +29,7 @@ The following list of topics is subject to change and expansion.
 * Installing Additional Software Packages
 * Using the Shell and Filesystem to Organize Your Writing
 * Plain-Text Composition with the JOE editor
+* Track Changes? Why Not Version Control with Git Instead?
 * Checking Definitions and More with Wordnet
 * Formatting Drafts to Submit Publication Using Ghostwriter and Pandoc
 * Formatting Drafts for DIY Publication Using LaTeX
