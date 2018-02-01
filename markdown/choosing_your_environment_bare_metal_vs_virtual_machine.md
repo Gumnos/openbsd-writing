@@ -1,0 +1,3 @@
+# OpenBSD for Writers: Choosing Your Environment: Bare Metal vs Virtual Machine
+
+by Matthew Graybosch <public@matthewgraybosch.com>

@@ -1,0 +1,3 @@
+# OpenBSD for Writers: Selecting Suitable Hardware
+
+by Matthew Graybosch <public@matthewgraybosch.com>
