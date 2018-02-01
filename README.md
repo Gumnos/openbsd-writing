@@ -33,6 +33,7 @@ The following list of topics is subject to change and expansion.
 * Checking Definitions and More with Wordnet
 * Formatting Drafts to Submit Publication Using Ghostwriter and Pandoc
 * Formatting Drafts for DIY Publication Using LaTeX
+* Word Processing With LibreOffice, for Authors Whose Publishers Cling to Microsoft Word
 
 ## License
 
