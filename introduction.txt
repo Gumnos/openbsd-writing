@@ -31,7 +31,7 @@ After dropping out of college, I took advantage of having been exposed to UNIX a
 
 Plain text all you need to get started, too, if you're willing to give it a try.
 
-I WANT MY... I WANT MY BSD...
+READY TO CONSIDER A CHANGE?
 
 Are you still reading this instead of writing? I can think of a few reasons for that.
 
@@ -46,6 +46,8 @@ These are all excellent reasons to consider using a Unix-like operating system l
 2. Much of the advice I will offer is applicable to the GNU/Linux distribution of your choice, OSX, and even Windows.
 3. Unix systems are designed to handle multiple simultaneous users and to be managed by a knowledgable system administrator. If you don't have any friends or friends of friends who are willing to be your sysadmin in exchange for beer or other considerations, you're going to have to step up and become your own sysadmin.
 4. Where applicable, I will link to technical documentation from OpenBSD, such as the FAQ[4] and manual pages[5]. You really should read these. They'll help you get out of trouble, and often help you avoid trouble in the first place.
+
+I WANT MY... I WANT MY BSD...
 
 Why use OpenBSD? It's not easy, but neither was putting men on the moon or climbing Mount Everest. Sometimes you need to do things because they are hard. 
 
