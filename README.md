@@ -10,7 +10,7 @@ This is the source text for a series of blog posts (and possibly a book) on how 
 
 I've decided to begin writing this guide for the following reasons.
 
-* If I had dared try OpenBSD sooner, I might have wasted so many years looking for a GNU/Linux distribution that felt *right*.
+* If I had dared try OpenBSD sooner, I might not have wasted so many years looking for a GNU/Linux distribution that felt *right*.
 * I am not aware of any guides to OpenBSD geared toward writers and authors.
 * I am not aware of any guides to OpenBSD geared toward desktop users in general.
 * I had to learn everything I know by reading documentation written by and for developers and system administrators, and I want to make OpenBSD more accessible to writers who were more sensible than I and didn't choose software development as a day job.
