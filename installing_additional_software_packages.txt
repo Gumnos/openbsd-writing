@@ -1,0 +1,3 @@
+OpenBSD for Writers: Installing Additional Software Packages
+
+by Matthew Graybosch <public@matthewgraybosch.com>
